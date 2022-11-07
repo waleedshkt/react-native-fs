@@ -73,6 +73,10 @@ Run your project (Cmd+R)
 
 ## Usage (Android)
 
+For RN >= 0.61, no further steps are required.
+
+For RN < 0.61, please perform following steps:
+
 Android support is currently limited to only the `DocumentDirectory`. This maps to the app's `files` directory.
 
 Make alterations to the following files:
